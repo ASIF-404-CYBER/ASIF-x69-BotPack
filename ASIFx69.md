@@ -1,18 +1,18 @@
 ## ABOUT ME
 
 #### Name : ```ASIF x69```</br>
-##### Age : ```17```</br>
+##### Age : ```16+```</br>
 ###### FB : [ASIF SARKER](https://facebook.com/4S1F.403).</br>
 
 ## CREDITS
 
 #### Original File : [BotPack](https://replit.com/@YanMaglinte/BotPack) by ```YanMaglinte```</br>
 
-##### Modified : [ASIF x69](https://replit.com/@hwxp1as66r/ASIF-x69-BOTPACK#ASIF.md) by ```ASIF x69```
+##### Modified : [ASIF x69 BOTPACK](https://replit.com/@hwxp1as66r/ASIF-x69-BOTPACK#ASIF.md) by ```ASIF x69```
 
 ## UPDATES
 
-###### • Configure console output in ``Asif/configs/console.js``.</br>
+###### • Configure console output in ``ASIFx69/configs/console.js``.</br>
 ###### • Fixed spam in ban system.</br>
 ###### • Discover the new feature with ```premium command```, you can enable it by adding a variable named ```premium``` and the value is boolean</br></br>
 ```premium ussage example```
