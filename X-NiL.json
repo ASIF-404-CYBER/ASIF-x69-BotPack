@@ -1,0 +1,22 @@
+{
+  "author": "ryuko",
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": true,
+  "premium": true,
+  "BOTNAME": "🦋⃟𝐗-𝐍𝐢𝐥 ◉⁠‿⁠◉🥰⃤ ",
+  "PREFIX": "/",
+  "OPERATOR": [
+    "100000768468627",
+    ""
+  ],
+  "ADMINBOT": [
+    "100000768468627",
+    "100083900196039",
+    "100030205562796"
+  ],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase"
+}
