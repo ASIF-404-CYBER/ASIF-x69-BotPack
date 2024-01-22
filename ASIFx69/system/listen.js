@@ -7,7 +7,7 @@ require("./handle/handleNotification.js")({ api });
 const Users = require("./controllers/users")({ models, api }),
 Threads = require("./controllers/threads")({ models, api }),
 Currencies = require("./controllers/currencies")({ models });
-const logger = require("../catalogs/xnilc.js");
+const logger = require("../catalogs/4S1Fc.js");
 const chalk = require("chalk");
 const gradient= require("gradient-string");
 const crayon = gradient('yellow', 'lime', 'green');

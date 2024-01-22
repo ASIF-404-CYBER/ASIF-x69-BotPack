@@ -1,5 +1,5 @@
 module.exports = function ({ api, models, Users, Threads, Currencies }) {
-    const logger = require("../../catalogs/xnilc.js")
+    const logger = require("../../catalogs/4S1Fc.js")
     return function ({ event }) {
         const { allowInbox } = global.ryuko;
         const { userBanned, threadBanned } = global.data;

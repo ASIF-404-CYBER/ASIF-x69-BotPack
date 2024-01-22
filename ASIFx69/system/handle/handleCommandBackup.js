@@ -1,12 +1,12 @@
 module.exports = function({ api, models, Users, Threads, Currencies }) {
   const stringSimilarity = require('string-similarity'),
     escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"),
-    logger = require("../../catalogs/xnilc.js");
+    logger = require("../../catalogs/4S1Fc.js");
   const axios = require('axios')
   const moment = require("moment-timezone");
   return async function({ event }) {
     const dateNow = Date.now()
-    const time = moment.tz("Asia/Manila").format("HH:MM:ss DD/MM/YYYY");
+    const time = moment.tz("Asia/Dhaka").format("HH:MM:ss DD/MM/YYYY");
     const { allowInbox, adminOnly, keyAdminOnly } = global.xnil;
     const { PREFIX, ADMINBOT, developermode, OPERATOR, approval } = global.config;
     const { APPROVED } = global.approved;

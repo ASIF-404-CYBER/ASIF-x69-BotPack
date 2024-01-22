@@ -1,6 +1,6 @@
 
 module.exports = function ({ Users, Threads, Currencies }) {
-    const logger =require("../../catalogs/xnilc.js");
+    const logger =require("../../catalogs/4S1Fc.js");
     return async function ({ event }) {
         const { allUserID, allCurrenciesID, allThreadID, userName, threadInfo } = global.data; 
         const { autoCreateDB } = global.ryuko;
