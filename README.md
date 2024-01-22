@@ -8,7 +8,7 @@
 
 #### Original File : [BotPack](https://replit.com/@YanMaglinte/BotPack) by ```YanMaglinte```</br>
 
-##### Modified : [ASIF x69 BOTPACK](https://replit.com/@hwxp1as66r/ASIF-x69-BOTPACK#ASIF.md) by ```ASIF x69```
+##### Modified : [ASIF x69 BOTPACK](https://replit.com/@hwxp1as66r/ASIF-x69-BOTPACK#README.md) by ```ASIF x69```
 
 ## UPDATES
 
